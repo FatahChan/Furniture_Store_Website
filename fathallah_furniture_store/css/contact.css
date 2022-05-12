@@ -1,0 +1,28 @@
+  body{
+    background-color: #ffc04c;
+  }
+  #main-contact-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  h1, h3, p{
+    margin: 5px;
+  }
+  #main-contact-us a:hover {
+    color: #ffa500;
+  }
+
+  .mapouter {
+      position: relative;
+      text-align: right;
+      height: 500px;
+      width: 600px;
+  }
+  .gmap_canvas {
+      overflow: hidden;
+      background: none !important;
+      height: 500px;
+      width: 600px;
+  }
