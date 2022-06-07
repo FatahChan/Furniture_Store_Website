@@ -1,4 +1,4 @@
-### This is a fullmock up of an online sotre ###
+### This is a fullmock up of an online store ###
 
 # Home page
 ![Screenshot 2022-05-12 093303](https://user-images.githubusercontent.com/30260221/168016658-09333fee-d7b0-4921-b0bf-c48e04bfaea5.png)
